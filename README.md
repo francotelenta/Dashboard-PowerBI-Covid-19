@@ -4,7 +4,7 @@ Este dashboard muestra el avance de la infección por Covid-19 a nivel global. S
 Este proyecto presenta un dashboard interactivo elaborado en **Power BI** a partir de datos en **Excel**.  
 El objetivo fue analizar para el periodo 01-ene al 07-ago (2020), los principales KPI's del avance de la infección por Covid-19 como la cantidad, evolución y tasas(%) de variación de los casos confirmados, activos, muertos y recuperados. 
 Así también, la expansión geográfica de la infección a través del tiempo, ratios(%) de c.activos y mortalidad.
-Finalmente, se muestra el detalle general acumulado por país en el tiempo.
+Finalmente, se muestra el detalle general acumulado por país para el periodo de tiempo analizado.
 
 ---
 
