@@ -32,18 +32,23 @@ Finalmente, se muestra el detalle general acumulado por país en el tiempo.
 
 ## 📂 Estructura del repositorio
 
+```
 Dashboard-PowerBI-Covid-19/
 │
 ├── data/
-│ └── MUESTRA CASOS COVID.xlsx
+│ └── Data Covid 19.xlsx
+│
 ├── powerbi/
 │ ├── Dashboard PowerBI - Covid 19.pbix
-│ └── capturas/dashboard.png
+│ └── capturas/
+│ └── Hoja General.png
+│ └── Hoja Detalle.png
+│
 └── video/
-  └── presentacion.mp4
-
+└── Presentacion.mp4
+```
 ---
 
 ## ✨ Autor
 **Franco Nino Doménico Telenta Chavez**  
-Analista de Datos | Power BI • SQL • Python
+Ingeniero Industrial | Analista de Datos y Business Intelligence | Power BI • SQL • Python
