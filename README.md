@@ -40,10 +40,9 @@ Dashboard-PowerBI-Covid-19/
 │
 ├── powerbi/
 │ ├── dashboard powerbi - covid 19.pbix
-│ └── capturas/
-│   └── hoja general.png
-│   └── hoja detalle.png
-│
+│ └── hoja general.png
+│ └── hoja detalle.png 
+│   
 └── video/
 └── presentacion.mp4
 ```
