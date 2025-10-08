@@ -36,16 +36,16 @@ Finalmente, se muestra el detalle general acumulado por país en el tiempo.
 Dashboard-PowerBI-Covid-19/
 │
 ├── data/
-│ └── Data Covid 19.xlsx
+│ └── data covid 19.xlsx
 │
 ├── powerbi/
-│ ├── Dashboard PowerBI - Covid 19.pbix
+│ ├── dashboard powerbi - covid 19.pbix
 │ └── capturas/
-│ └── Hoja General.png
-│ └── Hoja Detalle.png
+│ └── hoja general.png
+│ └── hoja detalle.png
 │
 └── video/
-└── Presentacion.mp4
+└── presentacion.mp4
 ```
 ---
 
