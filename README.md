@@ -29,25 +29,18 @@ Finalmente, se muestra el detalle general acumulado por país en el tiempo.
 ### Pestaña Detalle
 <img width="1965" height="1162" alt="Hoja Detalle" src="https://github.com/user-attachments/assets/7284ac2c-b63f-4b03-b462-c509f27884e3" />
 
----
-
-## 🎥 Video de presentación
-
-
-
----
 
 ## 📂 Estructura del repositorio
 
-Dashboard-PowerBI-Excel/
+Dashboard-PowerBI-Covid-19/
 │
 ├── data/
-│ └── fuente.xlsx
+│ └── MUESTRA CASOS COVID.xlsx
 ├── powerbi/
-│ ├── Dashboard.pbix
+│ ├── Dashboard PowerBI - Covid 19.pbix
 │ └── capturas/dashboard.png
 └── video/
-└── presentacion.mp4
+  └── presentacion.mp4
 
 ---
 
