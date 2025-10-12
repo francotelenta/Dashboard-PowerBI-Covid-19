@@ -24,10 +24,13 @@ Finalmente, se muestra el detalle general acumulado por país para el periodo de
 ## 📸 Vista del dashboard
 
 ### Pestaña Principal
-<img width="1913" height="1151" alt="Hoja General" src="https://github.com/user-attachments/assets/8edb925b-e069-429f-b7aa-0b23d6b8fc41" />
+<img width="1995" height="1222" alt="Hoja Principal" src="https://github.com/user-attachments/assets/738ba342-f4c0-42a6-815a-b7867443beb0" />
+
+
 
 ### Pestaña Detalle
-<img width="1965" height="1162" alt="Hoja Detalle" src="https://github.com/user-attachments/assets/7284ac2c-b63f-4b03-b462-c509f27884e3" />
+<img width="2110" height="1224" alt="Hoja Detalle" src="https://github.com/user-attachments/assets/def1810f-261b-4f16-9bcb-c1480dad876f" />
+
 
 
 ## 📂 Estructura del repositorio
