@@ -1,4 +1,4 @@
 [Ver video en Google Drive] 
 
-[<img width="1910" height="1069" alt="Miniatura Video" src="https://github.com/user-attachments/assets/41e3d357-246f-4ecb-85f8-7501ab1de6a3" />
-](https://drive.google.com/file/d/1Xx-Kv5aLnhBiLJCcFXkwe3xFr1FNhz8O/view)
+[<img width="1903" height="1060" alt="Miniatura Video" src="https://github.com/user-attachments/assets/f4700824-ed43-4b0a-bd04-d3e56d30cf06" />
+](https://drive.google.com/file/d/1jAgQtil8KVJpZPORktxf4XWbkSDIexw-/view?usp=sharing)
